@@ -3,3 +3,5 @@ Documento para pasar de git a GitHub
 1- Modifico para realizar un segundo commit 
 
 2 - Modifico nuevamente para realizar un tercer commit 
+
+3- Cree una nueva rama (nueva_rama), Modifico en documento para guardarlo en esta nueva rama. 
