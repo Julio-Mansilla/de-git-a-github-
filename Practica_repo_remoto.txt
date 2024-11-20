@@ -1,1 +1,3 @@
-Documento para pasar de git a github
+Documento para pasar de git a GitHub
+
+1- Modifico para realizar un segundo commit 
